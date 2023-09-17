@@ -36,4 +36,4 @@ To get started with the program, follow the instructions below.
 
 ## Contributing
 
-If you would like to contribute to this project or report issues, please open an [issue](https://github.com/SubratKumar/Banking_Project/issues) or submit a [pull request](https://github.com/SubratKumar/Banking_Project/pulls).
+If you would like to contribute to this project or report issues, please open an [issue](https://github.com/Yadav-SubratKumar/Banking_Project/issues) or submit a [pull request]https://github.com/Yadav-SubratKumar/Banking_Project/pulls).
