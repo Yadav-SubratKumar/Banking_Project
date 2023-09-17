@@ -6,7 +6,7 @@ Welcome to My Banking Application, a simple Python program that simulates basic 
 
 - Create a new bank account with a unique account number.
 - Close an existing bank account.
-- Perform banking transactions such as deposits, withdrawals, and balance inquiries.
+- Perform banking transactions such as close existing accounts, and perform various banking transactions.
 - User-friendly menu-driven interface.
 - Secure login system.
 
@@ -21,7 +21,7 @@ To get started with the program, follow the instructions below.
 ### Installation
 
 1. Clone this repository to your local machine.
-2. Run the program by executing `python main.py` in your terminal.
+2. Run the program by executing `python banking.py` in your terminal.
 
 ## Usage
 
