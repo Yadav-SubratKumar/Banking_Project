@@ -21,7 +21,8 @@ To get started with the program, follow the instructions below.
 ### Installation
 
 1. Clone this repository to your local machine.
-2. Run the program by executing `python banking.py` in your terminal.
+2. Update the db_connector file and provide a local database details.
+3. Run the program by executing `python banking.py` in your terminal. 
 
 ## Usage
 
